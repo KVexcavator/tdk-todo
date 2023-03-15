@@ -1,0 +1,4 @@
+https://opensource.com/article/18/4/creating-linux-desktop-application-ruby
+
+
+sudo chmod +x ./gtk-todo
